@@ -1,4 +1,4 @@
-# Mohammedalwedaa
+.# Mohammedalwedaa
 # 👋 Hi, I'm Mohammed Alwedaa
 
 I am a **Data Analyst & Software Developer** with a strong background in **Statistics and Computer Science (B.Sc. Honours, University of Gezira, Sudan)**.  
@@ -46,4 +46,34 @@ I am passionate about **sustainability, clean energy, and digital solutions** th
 📫 **Connect with me:**  
 - LinkedIn: [linkedin.com/in/mohammedalwedaa](https://www.linkedin.com)  
 - Email: mohamedalwedaa@gmail.com
-- 
+
+- # School Accounting System
+
+This project is written in VB.NET and uses SQL Server.
+
+## Download Project Files
+The full project files are hosted on Google Drive:
+
+[Download ZIP](https://drive.google.com/file/d/0B9lWyv9gRdp1UEE3TEc3LU5BRDA/view?usp=drive_link&resourcekey=0-NgnMetH5Gi9WZJSmlfMang)
+
+## How to Run
+1. Extract the downloaded ZIP file.
+2. Open the solution in Visual Studio.
+3. Set up the database using the provided SQL scripts.
+4. Run the application.
+
+# Travel agencies Management System
+
+This project is written in VB.NET and uses SQL Server.
+
+## Download Project Files
+The full project files are hosted on Google Drive:
+
+[Download ZIP]([PUT-GOOGLE-DRIVE-LINK-HERE](https://drive.google.com/file/d/0B9lWyv9gRdp1SmFFMWJaQ2tnY1k/view?usp=drive_link&resourcekey=0-oMZCNM5DucYt8rmmGrvsWQ))
+
+## How to Run
+1. Extract the downloaded ZIP file.
+2. Open the solution in Visual Studio.
+3. Set up the database using the provided SQL scripts.
+4. Run the application.
+
