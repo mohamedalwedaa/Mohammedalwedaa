@@ -77,3 +77,18 @@ The full project files are hosted on Google Drive:
 3. Set up the database using the provided SQL scripts.
 4. Run the application.
 
+Built with VB.NET & SQL Server
+
+Features: Pilgrim details, package management, and finance tracking
+
+Download Project Files: Download ZIP https://drive.google.com/file/d/0B9lWyv9gRdp1YkhoOWQxcEFwZWs/view?usp=drive_link&resourcekey=0-HBduCbOgrEc8Nzf14_rh7A
+
+How to Run:
+
+1. Extract the downloaded ZIP file
+
+2. Open the solution in Visual Studio
+
+3. Set up the database using the provided SQL scripts
+
+4. Run the application
